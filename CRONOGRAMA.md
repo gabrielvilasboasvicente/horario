@@ -4,6 +4,8 @@ Acompanhamento diário das minhas tarefas no NPI
 
 ---
 
+## Semana Atual: 17/08 a 21/08
+
 ## 🎯 Objetivos da Semana
 
 - [ ]  Estudar e assistir aulas de Java
