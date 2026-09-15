@@ -4,45 +4,43 @@ Acompanhamento diário das minhas tarefas no NPI
 
 ---
 
-## Semana Atual: 07/09 a 11/09
+## Semana Atual: 14/09 a 18/09
 
 ## 🎯 Objetivos da Semana
 
-- [ ] Atualizar o portfólio com os relatórios do pensamento computacional e londrinense tech
+- [ ]  Estudar para a prova teórica de LPOO
 - [ ]  Estudar para a prova de Álgebra linear
-- [ ]  Estudar para a prova de LPOO
-- [ ]  Entregar as listas e algoritmos de Álgebra linear
-- [ ]  Estudar para a prova de Gerenciamento de projetos
+- [ ]  Atualizar o portfólio com os relatórios 
 
 ---
 
 ## 📝 Relatório Semanal de Atividades
-
+- [ ] Todos os trabalhos e atividades do bimestre foram concluídos
 ---
 
 ### 📅 Registro Diário de Tarefas
 
 #### Segunda-feira
-- [ ] Feriado 07/09
+- [ ] Londrinense Tech
+- [ ] Realizei o relatório do Londrinense Tech
+- [ ] Estudei para a prova de LPOO
 
 #### Terça-feira
-- [ ] Faltei por conta de um imprevisto
+- [ ] Estudei para a prova de Álgebra linear
+- [ ] Atualizei o Cronograma.MD
 
 #### Quarta-feira
 - [ ] Pensamento Computacional
 - [ ] Relatório do Pensamento Computacional
 
 #### Quinta-feira
-- [ ] Atualizei o Cronograma.md
-- [ ] Estudei pra prova de Gerenciamento de projetos
-- [ ] Fiz 3 algoritmos da lista de Álgebra linear
+
+      
 
 #### Sexta-feira
-- [ ] Realizei o restante dos algoritmos de Álgebra linear e entreguei o trabalho
-- [ ] Estudei Álgebra linear por 1:00hr
-- [ ] Fui embora as 16:30
+
 
 ---
 
 ### 💡 Anotações e Pendências
-- **Pendências para a Próxima Semana:** Semana que vem terei as duas últimas provas do bimestre, todas as atividades e trabalhos foram concluídos, então semana que vem o foco será nos estudos
+- **Pendências para a Próxima Semana:** A próxima semana é a última do bimestre, então se eu passar em todas as matérias, ficarei sem nada para fazer no NPI, apenas as monitorias na segunda e na quarta.
