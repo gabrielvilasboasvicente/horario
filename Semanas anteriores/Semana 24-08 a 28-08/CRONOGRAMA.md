@@ -4,15 +4,15 @@ Acompanhamento diário das minhas tarefas no NPI
 
 ---
 
-## Semana Atual: 31/08 a 04/08
+## Semana Atual: 07/09 a 11/09
 
 ## 🎯 Objetivos da Semana
 
-- [ ]  Terminar a atividade 2 de Álgebra linear
-- [ ]  Fazer o trabalho de Depuração de código
-- [ ]  Fazer o trabalho de metodologias ágeis no Jira e Confluence
-- [ ]  Atualizar o portfólio com os relatórios do Londrinense Tech e Pensamento computacional
-- [ ]  Estudar o conteúdo da disciplina de LPOO
+- [ ] Atualizar o portfólio com os relatórios do pensamento computacional e londrinense tech
+- [ ]  Estudar para a prova de Álgebra linear
+- [ ]  Estudar para a prova de LPOO
+- [ ]  Entregar as listas e algoritmos de Álgebra linear
+- [ ]  Estudar para a prova de Gerenciamento de projetos
 
 ---
 
@@ -23,11 +23,10 @@ Acompanhamento diário das minhas tarefas no NPI
 ### 📅 Registro Diário de Tarefas
 
 #### Segunda-feira
-- [ ] Londrinense Tech
-- [ ] Relatório Londrinense Tech
+- [ ] Feriado 07/09
 
 #### Terça-feira
-- [ ] Realizei o trabalho de depuração de código, levou a tarde toda para ser concluído
+- [ ] Faltei por conta de um imprevisto
 
 #### Quarta-feira
 - [ ] Pensamento Computacional
@@ -35,13 +34,15 @@ Acompanhamento diário das minhas tarefas no NPI
 
 #### Quinta-feira
 - [ ] Atualizei o Cronograma.md
-- [ ] Iniciei a lista 2 de Álgebra linear
-- [ ] Fui embora mais cedo (16:30)
+- [ ] Estudei pra prova de Gerenciamento de projetos
+- [ ] Fiz 3 algoritmos da lista de Álgebra linear
 
 #### Sexta-feira
-- [ ] Faltei neste dia 
+- [ ] Realizei o restante dos algoritmos de Álgebra linear e entreguei o trabalho
+- [ ] Estudei Álgebra linear por 1:00hr
+- [ ] Fui embora as 16:30
 
 ---
 
 ### 💡 Anotações e Pendências
-- **Pendências para a Próxima Semana:** Semana que vem, será semana de provas, e feriado na segunda, então o foco será nos estudos.
+- **Pendências para a Próxima Semana:** Semana que vem terei as duas últimas provas do bimestre, todas as atividades e trabalhos foram concluídos, então semana que vem o foco será nos estudos
