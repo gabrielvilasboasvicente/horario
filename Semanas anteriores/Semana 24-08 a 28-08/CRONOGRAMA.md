@@ -1,4 +1,4 @@
-# 🗓️ Cronograma e Registro de Atividades 
+ # 🗓️ Cronograma e Registro de Atividades 
 
 Acompanhamento diário das minhas tarefas no NPI
 
@@ -30,8 +30,7 @@ Acompanhamento diário das minhas tarefas no NPI
 - [ ] Atualizei o Cronograma.MD
 
 #### Quarta-feira
-- [ ] Pensamento Computacional
-- [ ] Relatório do Pensamento Computacional
+- [ ] Faltei nesse dia
 
 #### Quinta-feira
 
